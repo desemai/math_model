@@ -1,0 +1,5 @@
+*.csv
+agModels_Regression
+__pycache__
+.idea
+*.xlsx
